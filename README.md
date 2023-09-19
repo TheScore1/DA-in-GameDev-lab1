@@ -41,12 +41,14 @@
 ### Установить anaconda и вывести hello world.
 
 Установил anaconda, в anaconda navigator открыл jupiter notebook, создал ipynb файл и вывел Hello World.
+
 ![image](https://github.com/TheScore1/DA-in-GameDev-lab1/assets/113776816/37f1b530-c539-4182-b1e9-77a05e4657b2)
 
 ## Задание 2
 ### Установить юнити и вывести hello world в консоль.
 
 Установил юнити, создал скрипт c# и применил его на игровой объект, куб. Запустил сцену.
+
 ![image](https://github.com/TheScore1/DA-in-GameDev-lab1/assets/113776816/860ab883-213a-4c70-85f1-bdf650e8c3c1)
 
 
